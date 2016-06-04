@@ -1,0 +1,4 @@
+#bower/node/grunt
+bower_components
+node_modules
+templates.js
