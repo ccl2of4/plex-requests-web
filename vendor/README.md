@@ -1,1 +1,1 @@
-These are dependencies not available in bower, and thus must be committed with the rest of the project.
+This theme isn't available as a node module, so it's being kept under SCM.
