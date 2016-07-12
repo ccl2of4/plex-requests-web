@@ -45,7 +45,7 @@ plexRequests.controller('RequestController', ['$rootScope', '$scope', 'searchSer
     if (isSearchType('movie')) {
       return searchMovies(query);
     } else {
-      return  searchTV(query);
+      return searchTV(query);
     }
   };
 
